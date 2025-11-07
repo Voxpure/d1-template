@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7f0e8954-958f-4ccd-93a9-d307acf58e90",
+      "database_name": "darongdatabase"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
